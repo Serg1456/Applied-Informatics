@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|c:\\users\\molecule\\desktop\\\u043F\u0438\\\u043F\u0438_4\\barcode\\barcode\\barcodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|solutionrelative:barcode\\barcodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\barcode\\barcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|solutionrelative:barcode\\barcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\barcode\\visualresultofencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|solutionrelative:barcode\\visualresultofencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\barcode\\visualresultofencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|solutionrelative:barcode\\visualresultofencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\barcode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE788AD-0505-4C86-B716-C1B25C721B0D}|Barcode\\Barcode.csproj|solutionrelative:barcode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarcodeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\BarcodeConverter.cs",
+              "RelativeDocumentMoniker": "Barcode\\BarcodeConverter.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\BarcodeConverter.cs",
+              "RelativeToolTip": "Barcode\\BarcodeConverter.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:25:19.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Barcode.csproj",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\Barcode.csproj",
+              "RelativeDocumentMoniker": "Barcode\\Barcode.csproj",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\Barcode.csproj",
+              "RelativeToolTip": "Barcode\\Barcode.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T21:04:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisualResultOfEncoding.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\VisualResultOfEncoding.cs",
+              "RelativeDocumentMoniker": "Barcode\\VisualResultOfEncoding.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\VisualResultOfEncoding.cs",
+              "RelativeToolTip": "Barcode\\VisualResultOfEncoding.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:12:24.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\Person.cs",
+              "RelativeDocumentMoniker": "Barcode\\Person.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\Person.cs",
+              "RelativeToolTip": "Barcode\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:39:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisualResultOfEncoding.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\VisualResultOfEncoding.cs",
+              "RelativeDocumentMoniker": "Barcode\\VisualResultOfEncoding.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_4\\Barcode\\Barcode\\VisualResultOfEncoding.cs [Design]",
+              "RelativeToolTip": "Barcode\\VisualResultOfEncoding.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:11:32.437Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
