@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\molecule_acer\\Desktop\\Дз\\ПИ\\2 задание\\Новая папка\\Methods\\Methods\\Methods.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\molecule_acer\\Desktop\\Дз\\ПИ\\2 задание\\Новая папка\\Methods\\Methods\\Methods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\molecule_acer\\Desktop\\Дз\\ПИ\\2 задание\\Новая папка\\Methods\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Users\\molecule_acer\\Desktop\\Дз\\ПИ\\2 задание\\Новая папка\\Methods\\Methods\\Methods.csproj",
+        "packagesPath": "C:\\Users\\molecule_acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\molecule_acer\\Desktop\\Дз\\ПИ\\2 задание\\Новая папка\\Methods\\Methods\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\molecule_acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
