@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|c:\\users\\molecule\\desktop\\\u043F\u0438\\\u043F\u0438_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\2dpca\\2dpcaeigenfaceparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\2dpca\\2dpcaeigenfaceparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|c:\\users\\molecule\\desktop\\\u043F\u0438\\\u043F\u0438_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\2dpca\\2dpcaeigenfacecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\2dpca\\2dpcaeigenfacecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|c:\\users\\molecule\\desktop\\\u043F\u0438\\\u043F\u0438_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\dispetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\dispetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\pcaproject\\2dpca\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A27BB-74DF-4E0E-8068-50F48A2F5438}|PCAProject\\PCAProject.csproj|solutionrelative:pcaproject\\2dpca\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\MainMenu.cs",
+              "RelativeDocumentMoniker": "PCAProject\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\MainMenu.cs",
+              "RelativeToolTip": "PCAProject\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:34:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispetcher.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\Dispetcher.cs",
+              "RelativeDocumentMoniker": "PCAProject\\Dispetcher.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\Dispetcher.cs",
+              "RelativeToolTip": "PCAProject\\Dispetcher.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwE4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:53:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\Person.cs",
+              "RelativeDocumentMoniker": "PCAProject\\2DPCA\\Person.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\Person.cs",
+              "RelativeToolTip": "PCAProject\\2DPCA\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:04:32.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2DPCAEigenFaceCascade.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\2DPCAEigenFaceCascade.cs",
+              "RelativeDocumentMoniker": "PCAProject\\2DPCA\\2DPCAEigenFaceCascade.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\2DPCAEigenFaceCascade.cs",
+              "RelativeToolTip": "PCAProject\\2DPCA\\2DPCAEigenFaceCascade.cs",
+              "ViewState": "AQIAADgBAAAAAAAAAAA2wH0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:29:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2DPCAEigenFaceParallel.cs",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\2DPCAEigenFaceParallel.cs",
+              "RelativeDocumentMoniker": "PCAProject\\2DPCA\\2DPCAEigenFaceParallel.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\2DPCA\\2DPCAEigenFaceParallel.cs",
+              "RelativeToolTip": "PCAProject\\2DPCA\\2DPCAEigenFaceParallel.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAmwEsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:41:48.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\MainMenu.cs",
+              "RelativeDocumentMoniker": "PCAProject\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Molecule\\Desktop\\\u041F\u0418\\\u041F\u0418_3 5 \u0432\u0435\u0440\u0441\u0438\u044F\\PCAProject\\MainMenu.cs [Design]",
+              "RelativeToolTip": "PCAProject\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:59:37.301Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

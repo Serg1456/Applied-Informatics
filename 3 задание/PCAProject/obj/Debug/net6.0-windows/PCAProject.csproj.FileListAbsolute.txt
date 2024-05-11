@@ -1,0 +1,606 @@
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CopyComplete
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\molecule_acer\Desktop\Дз\ПИ\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.Up2Date
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CopyComplete
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\molecule_acer\Desktop\ПИ_3 - дополненная\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.Up2Date
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.Up2Date
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 - дополненная_2\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.ParamsOfModel.resources
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CopyComplete
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualRecognitionForm.resources
+C:\Users\molecule_acer\Desktop\ПИ\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsFor2DPCA.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualRecognitionForm.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsFor2DPCA.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.ParamsOfModel.resources
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.Up2Date
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Molecule\Desktop\ПИ_3 - дополненная_3\3 задание\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualRecognitionForm.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsFor2DPCA.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.ParamsOfModel.resources
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CopyComplete
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Student\Desktop\PCAProject\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\PCAProject.exe
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\PCAProject.deps.json
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\PCAProject.runtimeconfig.json
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\NumSharp.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.AssemblyReference.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsForPCA1D.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualRecognitionForm.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.VisualResultsFor2DPCA.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\Plot3D.Graph3D.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.MainMenu.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.ParamsOfModel.resources
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.GenerateResource.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfoInputs.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.AssemblyInfo.cs
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.CoreCompileInputs.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.csproj.Up2Date
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\refint\PCAProject.dll
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.pdb
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\PCAProject.genruntimeconfig.cache
+C:\Users\Molecule\Desktop\ПИ\ПИ_3 5 версия\PCAProject\obj\Debug\net6.0-windows\ref\PCAProject.dll
